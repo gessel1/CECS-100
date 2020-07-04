@@ -1,4 +1,6 @@
 
+ #Test of the program
+ 
 #program reads and displays contents of myfile
 def display():
     #Open a file named myfile.txt.
@@ -15,6 +17,7 @@ def display():
     #Prints the data that is in memory
     print(file_contents)
   
+ 
 
 def dis():
     #program reads and displays contents of myfile
